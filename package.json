@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/test-summary/action.git"
+    "url": "git+https://github.com/andrewbruno/test-summary-action.git"
   },
   "keywords": [
     "actions",
